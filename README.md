@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Yooneeee's%20GitHub&fontSize=70&animation=twinkling&fontAlignY=55)
 <div align="center"><h2>:wave:Introduce</h2>
-안녕하세요! 저는 프론트엔드를 공부하고 있는 손지윤이라고 합니다:)</div>
+안녕하세요! 저는 프론트엔드를 공부하고 있는 손지윤이라고 합니다:-)</div>
 <div align="center">
   <h2>📞 Contact 📞</h2>
 <div style="display:flex; flex-direction:row;">
