@@ -1,18 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Yooneeee's%20GitHub&fontSize=70&animation=twinkling&fontAlignY=55)
-<div align="center"><h2>:wave:Introduce</h2>
-안녕하세요! 저는 프론트엔드를 공부하고 있는 손지윤이라고 합니다:-)</div>
-<div align="center">
-  <h2>📞 Contact 📞</h2>
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/ji_yo_oneee/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:sjy4489@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-
-</div>
 
 <div align="center"><h2>:cloud:Tech Stack:cloud:</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
